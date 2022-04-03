@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FEM-IRC-Sol/static/css/main.9bf13fa0.css",
+    "main.js": "/FEM-IRC-Sol/static/js/main.a331d900.js",
+    "static/media/illustration-thank-you.svg": "/FEM-IRC-Sol/static/media/illustration-thank-you.d74a66b551b99ae110b5362ed63106bf.svg",
+    "index.html": "/FEM-IRC-Sol/index.html",
+    "static/media/icon-star.svg": "/FEM-IRC-Sol/static/media/icon-star.12766a8d207af861a70f92500634c8be.svg",
+    "main.9bf13fa0.css.map": "/FEM-IRC-Sol/static/css/main.9bf13fa0.css.map",
+    "main.a331d900.js.map": "/FEM-IRC-Sol/static/js/main.a331d900.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9bf13fa0.css",
+    "static/js/main.a331d900.js"
+  ]
+}
