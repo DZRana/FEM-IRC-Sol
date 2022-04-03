@@ -1,6 +1,6 @@
 {
   "homepage": "https://dzrana.github.io/FEM-IRC-Sol/",
-  "name": "interactive-rating-component-solution",
+  "name": "irc-sol",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
